@@ -1,0 +1,15 @@
+main{
+    color: blue;
+    max-width: 30%;
+    padding-left: 15%;
+    text-shadow:  2px 3px 4px rgb(86, 184, 30);
+    border-radius: 7%;
+    background: cornsilk;
+    text-align: center;
+    }
+
+   div{
+       margin: 10%;
+       border:3px solid  #7422;
+       width: 300px;
+   }
